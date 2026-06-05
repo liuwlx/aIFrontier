@@ -1,8 +1,8 @@
 {
-  "last_run_at": "2026-06-04T16:54:25+08:00",
-  "last_success_at": "2026-06-04T16:55:32+08:00",
-  "sources_attempted": 2,
-  "sources_succeeded": 2,
-  "sources_failed": 0,
+  "last_run_at": "2026-06-05T14:59:03+08:00",
+  "last_success_at": "2026-06-05T15:04:06+08:00",
+  "sources_attempted": 12,
+  "sources_succeeded": 8,
+  "sources_failed": 4,
   "notes": "Initialized by frontier-data-hub setup."
 }

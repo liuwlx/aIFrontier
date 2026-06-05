@@ -1,0 +1,38 @@
+{
+  "kind": "source_page",
+  "provider": "AWS",
+  "source_name": "AWS Well-Architected Generative AI Lens",
+  "source_type": "production_architecture_check",
+  "source_url": "https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/welcome.html",
+  "parent_source_url": null,
+  "configured_source_url": "https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/welcome.html",
+  "priority": "high",
+  "crawl_frequency": "weekly",
+  "topics": [
+    "production_architecture_check",
+    "genai_architecture",
+    "ai_governance"
+  ],
+  "language": "en",
+  "access": "public",
+  "time_extraction": {
+    "preferred_fields": [
+      "updated_at",
+      "published_at",
+      "article_meta_time",
+      "json_ld_time"
+    ],
+    "fallback": "fetched_at"
+  },
+  "fetched_at": "2026-06-05T15:01:11+08:00",
+  "status": "success",
+  "status_code": 200,
+  "content_type": "text/html",
+  "elapsed_ms": 718,
+  "truncated": false,
+  "error": null,
+  "title": "Generative AI Lens",
+  "page_title": "Generative AI Lens",
+  "candidates": [],
+  "html": "<!DOCTYPE html>\n        <!DOCTYPE HTML><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><title>Generative AI Lens</title><meta xmlns=\"\" name=\"subtitle\" content=\"AWS Well-Architected Framework\"><meta xmlns=\"\" name=\"abstract\" content=\"The AWS Well-Architected Generative AI Lens is an essential resource for organizations seeking to harness the power of generative AI technologies on AWS. As enterprises increasingly adopt generative AI to drive innovation and solve advanced problems, they require guidance and best practices to build applications that are secure, efficient, scalable, and aligned with responsible AI principles. This lens extends the Well-Architected Framework to address the unique considerations and opportunities presented by generative AI, empowering architects, developers, and decision-makers to create solutions that maximize the potential of these cutting-edge technologies.\"><meta http-equiv=\"refresh\" content=\"0;URL=generative-ai-lens.html\"><script type=\"text/javascript\"><!--\n        var myDefaultPage = \"generative-ai-lens.html\";\n           \tvar myPage = document.location.search.substr(1);\n           \tvar myHash = document.location.hash;\n        \n              if (myPage == null || myPage.length == 0) {\n                 myPage = myDefaultPage;\n              } else {\n                 var docfile = myPage.match(/[^=\\;\\/?:\\s]+\\.html/);\n                 if (docfile == null) {\n       \t\t\t\tmyPage = myDefaultPage;\n    \t     \t\t } else {\n                    myPage = docfile + myHash;\n                 }\n              }\n              self.location.replace(myPage);\n    --></script></head><body></body></html>"
+}

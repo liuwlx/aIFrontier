@@ -1,0 +1,38 @@
+{
+  "kind": "candidate_page",
+  "provider": "AWS",
+  "source_name": "AWS News Blog",
+  "source_type": "product_releases",
+  "source_url": "https://aws.amazon.com/blogs/aws/category/messaging/amazon-connect/",
+  "parent_source_url": "https://aws.amazon.com/blogs/aws/",
+  "configured_source_url": "https://aws.amazon.com/blogs/aws/",
+  "priority": "high",
+  "crawl_frequency": "daily",
+  "topics": [
+    "product_release",
+    "cloud",
+    "ai"
+  ],
+  "language": "en",
+  "access": "public",
+  "time_extraction": {
+    "preferred_fields": [
+      "published_at",
+      "updated_at",
+      "article_meta_time",
+      "json_ld_time"
+    ],
+    "fallback": "fetched_at"
+  },
+  "fetched_at": "2026-06-05T15:03:21+08:00",
+  "status": "failed",
+  "status_code": null,
+  "content_type": "",
+  "elapsed_ms": 30082,
+  "truncated": false,
+  "error": "URLError: <urlopen error _ssl.c:983: The handshake operation timed out>",
+  "title": "Amazon Connect",
+  "page_title": "",
+  "candidates": [],
+  "html": ""
+}
