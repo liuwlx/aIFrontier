@@ -1,0 +1,97 @@
+URL: https://deepmind.google/models/gemini-audio/
+Title field: Gemini Audio Talk, create and control audio
+og:title: N/A
+Meta Description: N/A
+og:description: N/A
+Published: N/A
+
+============================================================
+TEXT CONTENT (4151 chars):
+============================================================
+Gemini Audio — Google DeepMind Skip to main content
+Slide 1 of 3
+Gemini Audio
+Our most advanced audio models push new frontiers with intuitive inputs, intelligent understanding and natural expressiveness
+Try Live dialogue
+Try Speech generation
+Your browser does not support the video tag.
+3.1 Flash Live
+Best for low-latency, fluid and natural vocal rhythm. Solves complex tasks while recognizing nuances in voices like pitch and pace.
+Build with Gemini Audio
+Your browser does not support the video tag.
+3.1 Flash TTS
+Best for directing intonation and inflection. Intuitive audio tags give you granular command over style, pace, and tone with unprecedented precision.
+Build with Gemini Audio
+Your browser does not support the video tag.
+Explore the latest
+Natural and powerful audio models. Helping people communicate, developers build, and enterprises manage business.
+Capabilities
+Models
+Hands-on
+Safety
+Try Gemini Audio
+Capabilities
+Talk in real-time. Control with precision. Understand every nuance.
+Slide 1 of 3
+Live dialogue
+Fluid and natural live dialogue and translation capabilities, for powerful voice-first applications.
+Learn more
+Speech generation
+Craft anything from short snippets to long-form narratives, with granular control over style, pace, delivery and performance.
+Learn more
+Audio understanding
+Go beyond simple transcription, with models that identify who’s talking and understand the intent behind the words.
+Learn more
+Live dialogue
+Fluid and natural live dialogue and translation capabilities, for powerful voice-first applications.
+Learn more
+Speech generation
+Craft anything from short snippets to long-form narratives, with granular control over style, pace, delivery and performance.
+Learn more
+Audio understanding
+Go beyond simple transcription, with models that identify who’s talking and understand the intent behind the words.
+Learn more
+Models
+Our audio models generate natural vocals at speed and scale for different developer workflows.
+3.1 Flash Live
+Best for low-latency, fluid and natural vocal rhythm. Solves complex tasks while recognizing nuances in voices like pitch and pace.
+Try it in
+Google AI Studio
+3.1 Flash TTS
+Best for directing intonation and inflection. Intuitive audio tags give you granular command over style, pace, and tone with unprecedented precision.
+Try it in
+Google AI Studio
+Hands-on
+Explore what you can do with Gemini Audio
+Your browser does not support the video tag. Your browser does not support the video tag. Your browser does not support the video tag.
+Showcasing Gemini Flash Live
+Multi-step task management
+Holds fluid and natural low-latency conversations while calling functions to manage multi-step and complex large-scale tasks.
+Your browser does not support the video tag. Your browser does not support the video tag. Your browser does not support the video tag.
+Showcasing Gemini Flash TTS
+Expressive speech generation
+Best for directing intonation and inflection. Intuitive audio tags give you granular command over style, pace, and tone with unprecedented precision.
+Safety
+Building with responsibility at the core
+We’ve proactively assessed potential risks during every stage of the development process for these native audio features, using what we’ve learned to inform our mitigation strategies. We validate these measures through rigorous internal and external safety evaluations, including comprehensive red teaming for responsible deployment.
+All audio outputs from our models are marked with SynthID, our advanced watermarking technology, allowing you to detect whether speech has been created or edited using Google AI.
+Learn more
+Try Gemini Audio
+Google AI Studio
+The fastest path from prompt to production
+Try in Google AI Studio
+Google Vids
+AI-powered video creation for work
+Try in Google Vids
+Gemini API
+Get started with cutting-edge AI models
+Learn more
+Gemini Live API
+Low-latency, real-time voice and video interactions with Gemini
+Learn more
+Gemini Enterprise Agent Platform
+Build, scale, and govern agents
+Learn more
+Gemini Enterprise for Customer Experience
+Deploy specialized agents for product discovery, shopping, and customer service
+Learn more

@@ -1,0 +1,38 @@
+{
+  "kind": "source_page",
+  "provider": "AWS",
+  "source_name": "Enterprise-ready GenAI Platform",
+  "source_type": "enterprise_genai_platform",
+  "source_url": "https://docs.aws.amazon.com/prescriptive-guidance/latest/enterprise-ready-generative-ai-platform/welcome.html",
+  "parent_source_url": null,
+  "configured_source_url": "https://docs.aws.amazon.com/prescriptive-guidance/latest/enterprise-ready-generative-ai-platform/welcome.html",
+  "priority": "high",
+  "crawl_frequency": "weekly",
+  "topics": [
+    "enterprise_genai_platform",
+    "genai_architecture",
+    "ai_governance"
+  ],
+  "language": "en",
+  "access": "public",
+  "time_extraction": {
+    "preferred_fields": [
+      "updated_at",
+      "published_at",
+      "article_meta_time",
+      "json_ld_time"
+    ],
+    "fallback": "fetched_at"
+  },
+  "fetched_at": "2026-06-02T18:31:36+08:00",
+  "status": "failed",
+  "status_code": 404,
+  "content_type": "",
+  "elapsed_ms": 890,
+  "truncated": false,
+  "error": "HTTPError: HTTP Error 404: Not Found",
+  "title": "Amazon Web Services Documentation",
+  "page_title": "Amazon Web Services Documentation",
+  "candidates": [],
+  "html": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n    \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" ng-app=\"AWSDocsPageApp\">\n<head>\n  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\"/>\n  <meta name=\"verify-v1\" content=\"hLU7AwdG+3iNmKu10kH5wweL2vTF1q8my+2MWWtMJ2A=\"/>\n  <meta name=\"page-name\" content=\"page-not-found\"/>\n  <meta name=\"assets_root\" content=\"/assets/\">\n  <meta name=\"page-type\" content=\"errorPage\" />\n  <title>Amazon Web Services Documentation</title>\n  \n   <script defer src=\"/assets/r/awsdocs-page.2.0.0.js\"></script>\n\n  \n</head>\n<body ng-csp=\"no-unsafe-eval\" class=\"awsdocs awsui\">\n<div class=\"awsdocs-container\">\n  <awsdocs-generic-header></awsdocs-generic-header>\n\n  <div class=\"awsdocs-content-container awsui-util-ml-l awsui-util-mr-l\">\n    <div class=\"awsui-util-pl-l awsui-util-pr-l\">\n\n      <h1>Looking for Something?</h1>\n      <div>We're sorry. The web address you entered is not a functioning page on our site. Try one of the following\n        links\n        to find the information you're looking for:\n        <div>\n        <ul>\n          <li><a href=\"https://aws.amazon.com\">Amazon Web Services Home Page</a>: Product information for all our web\n            services.\n          </li>\n          <li><a href=\"https://aws.amazon.com/resources\">Resource Center</a>: Documentation, code samples, and other\n            resources\n            for building applications on Amazon Web Services.\n          </li>\n        </ul>\n      </div>\n    </div>\n    <div>-The Amazon Web Services Documentation Team</div>\n  </div>\n  </div>\n\n  <awsdocs-generic-footer></awsdocs-generic-footer>\n</div>\n</body>\n</html>\n"
+}

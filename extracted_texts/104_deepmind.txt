@@ -1,0 +1,65 @@
+URL: https://deepmind.google/models/gemini-image/
+Title field: Nano Banana Create and edit detailed images
+og:title: N/A
+Meta Description: N/A
+og:description: N/A
+Published: N/A
+
+============================================================
+TEXT CONTENT (2197 chars):
+============================================================
+Gemini Image – Nano Banana — Google DeepMind Skip to main content
+Slide 1 of 3
+Nano Banana 🍌
+State-of-the-art image generation and editing models, built on Gemini
+Try in Gemini
+Build with Nano Banana
+View prompt guide
+Nano Banana 2 🍌
+Gemini 3.1 Flash Image offers pro-level image generation and editing, at Flash speed
+Try in Gemini
+Build with Nano Banana 2
+Nano Banana Pro 🍌
+Built on Gemini 3. Create and edit images with studio-quality levels of precision and control
+Try in Gemini
+Build with Nano Banana Pro
+Explore the latest
+Imagine almost anything – then create it. Generate detailed, playful, realistic, or whimsical images. Or anything in-between.
+Overview
+Model family
+Try Nano Banana
+The Gemini Image model uses deep language understanding to capture the nuance of your prompts — bridging the gap between what you say and what you envision.
+Capabilities
+Multimodal understanding
+Upload images and share text instructions with Gemini to create complex and detailed images.
+Conversational inputs
+Use everyday language while creating images, and keep the conversation going to refine what the model generates.
+Real-world knowledge
+Generate images that follow real-world logic, thanks to Gemini’s advanced reasoning capabilities.
+Model family
+Gemini Image models are natively multimodal, and respond effectively and efficiently to even the most detailed prompts.
+Gemini 3 Pro Image
+Nano Banana Pro
+Create and edit images with studio-quality levels of precision and control
+Learn more
+Gemini 3.1 Flash Image
+Nano Banana 2
+Pro-level image generation and editing, at Flash speed
+Learn more
+Creating your prompts
+Use detailed prompts to take more control over the images you generate. Think about what you want to see – the characters, the setting, and the overall feel. The more detail you add, the closer the image will be to what you’ve imagined.
+Learn how to prompt
+Try Nano Banana
+Gemini Image
+Gemini
+Supercharge your creativity and productivity
+Try in Gemini
+Google AI Studio
+The fastest path from prompt to production
+Try in Google AI Studio
+Gemini API
+Get started building with cutting-edge AI models
+Learn more
+Gemini Enterprise Agent Platform
+Build, scale, and govern agents
+Learn more

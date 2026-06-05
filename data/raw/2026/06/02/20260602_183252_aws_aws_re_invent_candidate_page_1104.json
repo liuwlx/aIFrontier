@@ -1,0 +1,38 @@
+{
+  "kind": "candidate_page",
+  "provider": "AWS",
+  "source_name": "AWS re:Invent",
+  "source_type": "annual_conference",
+  "source_url": "https://reinvent.awsevents.com/getting-started/?nc1=f_cc",
+  "parent_source_url": "https://reinvent.awsevents.com/",
+  "configured_source_url": "https://reinvent.awsevents.com/",
+  "priority": "medium",
+  "crawl_frequency": "weekly",
+  "topics": [
+    "annual_conference",
+    "cloud",
+    "ai"
+  ],
+  "language": "en",
+  "access": "public",
+  "time_extraction": {
+    "preferred_fields": [
+      "published_at",
+      "updated_at",
+      "article_meta_time",
+      "json_ld_time"
+    ],
+    "fallback": "fetched_at"
+  },
+  "fetched_at": "2026-06-02T18:32:52+08:00",
+  "status": "failed",
+  "status_code": 404,
+  "content_type": "",
+  "elapsed_ms": 1480,
+  "truncated": false,
+  "error": "HTTPError: HTTP Error 404: ",
+  "title": "Getting Started",
+  "page_title": "",
+  "candidates": [],
+  "html": "<!DOCTYPE html>\n<html class=\"no-js lang-en lang-en_US\" lang=\"en-US\" xmlns=\"http://www.w3.org/1999/xhtml\" data-aws-assets=\"//a0.awsstatic.com\" data-js-version=\"1.0.681\" data-css-version=\"2.0.1\">\n<head>\n  <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\" />\n  <link rel=\"dns-prefetch\" href=//a0.awsstatic.com />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n  <meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'self' data: https://a0.awsstatic.com https://prod.us-east-1.ui.gcr-chat.marketing.aws.dev; base-uri 'none'; connect-src 'self' https://*.analytics.console.aws.a2z.com https://*.harmony.a2z.com https://*.marketing.aws.dev https://*.panorama.console.api.aws https://*.prod.chc-features.uxplatform.aws.dev https://*.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://112-tzm-766.mktoresp.com https://112-tzm-766.mktoutil.com https://8810.clrt.ai https://a0.awsstatic.com https://a0.p.awsstatic.com https://a1.awsstatic.com https://amazonwebservices.d2.sc.omtrdc.net https://amazonwebservicesinc.tt.omtrdc.net https://api-v2.builderprofile.aws.dev https://api.regional-table.region-services.aws.a2z.com https://api.us-west-2.prod.pricing.aws.a2z.com https://artifacts.us-west-2.prod.plc.billing.aws.dev https://assets.storylane.io https://auth.aws.amazon.com https://aws.amazon.com https://aws.amazon.com/p/sf/ https://aws.demdex.net https://b0.p.awsstatic.com https://c0.b0.p.awsstatic.com https://calculator.aws https://chatbot-api.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://chatbot-stream-api.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://clientlogger.marketplace.aws.a2z.com https://cm.everesttech.net https://csml-plc-prod.us-west-2.api.aws/plc/csml/logging https://d0.awsstatic.com https://d0.m.awsstatic.com https://d1.awsstatic.com https://d1fgizr415o1r6.cloudfront.net https://d2c.aws.amazon.com https://d3borx6sfvnesb.cloudfront.net https://dftu77xade0tc.cloudfront.net https://dpm.demdex.net https://edge.adobedc.net https://fls-na.amazon.com https://i18n-string.us-west-2.prod.pricing.aws.a2z.com https://iad.staging.prod.tv.awsstatic.com https://infra-api.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://ingestion.aperture-public-api.feedback.console.aws.dev https://livechat-api.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://log.clrt.ai https://pricing-table.us-west-2.prod.site.p.awsstatic.com https://prod-us-west-2.csp-report.marketing.aws.dev https://prod.log.shortbread.aws.dev https://prod.tools.shortbread.aws.dev https://prod.us-east-1.api.gcr-chat.marketing.aws.dev https://prod.us-east-1.rest-bot.gcr-chat.marketing.aws.dev https://prod.us-east-1.ui.gcr-chat.marketing.aws.dev https://prod2.clientlogger.cn-northwest-1.marketplace.aws.a2z.org.cn https://public.lotus.awt.aws.a2z.com https://r0.m.awsstatic.com https://s0.awsstatic.com https://s3.amazonaws.com/aws-messaging-pricing-information/ https://s3.amazonaws.com/public-pricing-agc/ https://spot-bid-advisor.s3.amazonaws.com https://t0.m.awsstatic.com https://target.aws.amazon.com https://token.us-west-2.prod.site.p.awsstatic.com https://tv.awsstatic.com https://view-stage.us-west-2.prod.pricing.aws.a2z.com https://view-staging.us-east-1.prod.plc1-prod.pricing.aws.a2z.com https://vs.aws.amazon.com https://webchat-aws.clink.cn https://wrp.aws.amazon.com https://www.youtube-nocookie.com https://xcxrmtkxx5.execute-api.us-east-1.amazonaws.com/prod/ wss://*.transport.connect.us-east-1.amazonaws.com wss://prod.us-east-1.wss-bot.gcr-chat.marketing.aws.dev wss://webchat-aws.clink.cn; font-src 'self' data: https://a0.awsstatic.com https://f0.awsstatic.com https://fonts.gstatic.com https://prod.us-east-1.ui.gcr-chat.marketing.aws.dev; frame-src 'self' https://*.widget.console.aws.amazon.com https://aws.demdex.net https://aws.storylane.io https://c0.b0.p.awsstatic.com https://calculator.aws https://conversational-experience-worker.widget.console.aws.amazon.com/lotus/isolatedIFrame https://dpm.demdex.net https://pricing-table.us-west-2.prod.site.p.awsstatic.com https://token.us-west-2.prod.site.p.awsstatic.com"
+}

@@ -1,0 +1,57 @@
+filters:
+  accept_keywords:
+    - "AI"
+    - "artificial intelligence"
+    - "generative AI"
+    - "GenAI"
+    - "LLM"
+    - "agent"
+    - "RAG"
+    - "machine learning"
+    - "data platform"
+    - "architecture"
+    - "whitepaper"
+    - "大模型"
+    - "生成式 AI"
+    - "智能体"
+    - "人工智能"
+    - "机器学习"
+    - "数据平台"
+    - "架构"
+    - "白皮书"
+  reject_keywords:
+    - "coupon"
+    - "discount"
+    - "celebrity"
+    - "娱乐八卦"
+    - "促销"
+  min_summary_chars: 18
+  default_importance: "medium"
+  priority_rules:
+    high:
+      source_priority:
+        - "high"
+      source_types:
+        - "implementation_guides"
+        - "enterprise_genai_platform"
+        - "production_architecture_check"
+        - "company_strategy"
+        - "genai_architecture"
+      topic_keywords:
+        - "agent"
+        - "RAG"
+        - "enterprise"
+        - "production"
+        - "governance"
+        - "智能体"
+        - "生产级"
+    medium:
+      source_priority:
+        - "medium"
+      source_types:
+        - "ai_ml_practice_blog"
+        - "product_releases"
+        - "executive_insights"
+    low:
+      source_priority:
+        - "low"

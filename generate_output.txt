@@ -1,0 +1,16 @@
+Written 13 entries to E:\workerspace\daily\frontier-data-hub\data\agent-readings\2026\06\2026-06-04.article-reader-agent.jsonl
+  [BLOCKED] Research
+  [BLOCKED] Economic Futures
+  [READ   ] Introducing the Services Track and Partner Hub of the Claude
+  [READ   ] What we learned mapping a year's worth of AI-enabled cyber t
+  [READ   ] Expanding Project Glasswing
+  [READ   ] Project Glasswing: Securing critical software for the AI era
+  [BLOCKED] Engineering at Anthropic
+  [READ   ] Claude Code | Anthropic's agentic coding system
+  [BLOCKED] Explore models
+  [READ   ] Gemini 3.5: Frontier intelligence with action
+  [READ   ] Gemini Omni: Create anything from anything
+  [BLOCKED] Nano Banana: Create and edit detailed images
+  [READ   ] Gemini Audio: Talk, create and control audio
+
+Summary: {'blocked': 5, 'read': 8}

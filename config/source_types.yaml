@@ -1,0 +1,34 @@
+source_types:
+  executive_insights:
+    label: "高管/行业洞察"
+    description: "CEO、CTO、CPO、首席科学家、行业负责人观点，以及行业趋势判断。"
+  data_leader_view:
+    label: "数据负责人视角"
+    description: "CDO、数据平台负责人、数据治理负责人关于数据、平台和组织落地的观点。"
+  implementation_guides:
+    label: "落地指南"
+    description: "实施手册、迁移指南、最佳实践、参考路径、企业落地步骤。"
+  enterprise_genai_platform:
+    label: "企业 GenAI 平台"
+    description: "企业级 GenAI 平台、Agent 平台、AI Studio、MLOps/LLMOps 平台。"
+  whitepapers:
+    label: "白皮书"
+    description: "研究报告、技术白皮书、行业报告、年度指数。"
+  production_architecture_check:
+    label: "生产级架构检查"
+    description: "Well-Architected、生产检查清单、可靠性、安全、成本和治理框架。"
+  ai_ml_practice_blog:
+    label: "AI/ML 实战博客"
+    description: "工程实践、RAG、Agent、模型评测、训练和推理优化案例。"
+  product_releases:
+    label: "产品发布"
+    description: "新产品、新模型、新功能、API 更新、发布公告。"
+  annual_conference:
+    label: "年度大会"
+    description: "re:Invent、GTC、Build、Google Cloud Next、DevDay 等大会和主题演讲。"
+  company_strategy:
+    label: "公司战略"
+    description: "财报、股东信、战略文章、组织路线、生态合作和商业模式变化。"
+  genai_architecture:
+    label: "GenAI 架构"
+    description: "RAG、Agent、多模态、评估、安全、治理、部署架构和参考架构。"

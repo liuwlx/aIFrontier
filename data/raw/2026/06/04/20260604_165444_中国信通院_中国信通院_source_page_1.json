@@ -1,0 +1,39 @@
+{
+  "kind": "source_page",
+  "provider": "中国信通院",
+  "source_name": "中国信通院",
+  "source_type": "whitepapers",
+  "source_url": "http://www.caict.ac.cn/",
+  "parent_source_url": null,
+  "configured_source_url": "http://www.caict.ac.cn/",
+  "priority": "high",
+  "crawl_frequency": "weekly",
+  "topics": [
+    "whitepapers",
+    "industry_report",
+    "china_ai"
+  ],
+  "language": "zh-CN",
+  "access": "public",
+  "time_extraction": {
+    "preferred_fields": [
+      "published_at",
+      "updated_at",
+      "article_meta_time",
+      "json_ld_time",
+      "list_page_time"
+    ],
+    "fallback": "fetched_at"
+  },
+  "fetched_at": "2026-06-04T16:54:44+08:00",
+  "status": "failed",
+  "status_code": 412,
+  "content_type": "",
+  "elapsed_ms": 164,
+  "truncated": false,
+  "error": "HTTPError: HTTP Error 412: Precondition Failed",
+  "title": "",
+  "page_title": "",
+  "candidates": [],
+  "html": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta id=\"mcOQA7uLv7h2\" content=\"ZLoq5jGOWJgR5Kjka6Ysb0PM0dXjrKKNYd8evHM0OYL\" r='m'><!--[if lt IE 9]><script r='m'>document.createElement(\"section\")</script><![endif]--><script type=\"text/javascript\" r='m'>$_ts=window['$_ts'];if(!$_ts)$_ts={};$_ts.nsd=103102;$_ts.cd=\"qxYxrrAltqGqcGVtqOq6cGlaHaEEqqLocGA3JaGqcGEtquq6cG3aHaWthqLmrPZErrgtrOqdqaGqcPatrsq6cqqtqaLqWkQEqqLXruEYx1ZxrrgEqqLmcGEaoaGqcGqtqsq6cGAaHaVEqcEcruEYx1ZtrcWEqqLrcG33JaGqcGAtrsq6cqqtqaLqDkQEqqLDcGQaJaLmi11QJsAoJkW0wxV13uU.2hxPM.vZDET9cfqtwIhyEg2YBxHbljLLkL91WdF1HFB6QJY0mASLLcI1ctZkq1LcfPSZ5u7nUYfkMuh1MDaTKCRcitYP8mmBAOJD6kfpIUrXsCnNsu7eAkmVHzY0MkyupmRzSk3aYsmmIvD2YVSDVKyv85zvRoxnHmyLyCfV3DmfJCIsRu7a3Kf7At2NileOFCGv.DEyWkqCW1I0QkzSR0GnA_zmpOa0MT0v.DEyWkqCW1I0QkzkVuxDIea0A6efp2Vv.DEyWkqCW1I0QkzZY2TZMiy7VuJ_sKLveoq4poGdVUuARbwHQDNrWzxDYDznwlR3n9xn1u2VJlMsMCwhMuwCidWgKYTDI6ae09TrYOxGtOBdiOV6WuEj350gR9rxJVYcdszPUmpatOBdiOV6WuEj350ghOwOHOl4.u3XM6lZFK.pV9lnw0znHB3Si6rtW6yd60NiWVqaFGbIWal0lDeaI8gyWuq0JsQZju3gWkGdJq573O9aWk3oH_96cOAnWkq5NuW0JOqiWOP7WkQ6JOZ0DwfHGeW5x42ibOp3TSzIyqPinvoLKrHP4eVtvG3cqG3ibPJSQ5kbMCdZ5PXxQ6ciBRgtsTQH4kCPUh5ANBjhW5UqOGG6JuVCHjaSJAAuksV5NOWTWul6WunTWu2T8lWCA_RjW0qTYCSj0kxzsbJmQ6HXYvN7Qle0M7eoWsV_woQ46DmcJGEDWqPXqO8oWOr5xIeP3n2OFv32d6J.tKJ0F1UdwK9N3DRBxISPwc2GMbL2dDyatKreJPUehCJ93czvRBWB36YntCw_41eOwvA.3DOjhCpNMPzGRB0BRDNfInfzZUQ73KeGtDuuMnSGMUWLMiRbhDJXRPfBZbq73CyStDdSM1SOMK2axIf7wc223C325KzBtKYX3PUy81SzMvQL38yuhDTCRcfGdKa7MDSftDkaFPS7MoAL3iyPhDSSFcfOd6l7MCJSR1U0QCYPhbT0M.xNQn2LwDzv7beNRny.FC_nMOp9hbN28MxXFKlXFbT97by.QnyjFCCnMbeuhbN0i.xXQklXFvpL7bya3DV.FUvyhCTTQPzN8BQBMCwLtCzjyPeB3bV.FCUZhCeNRnz.IIGBM6JOt6pL41eaRbJ6tov_R1STRKLL8IwGhoYXMPfyZbNuQ1y6Fb_nQ6rLhvw08.xuQolXw6peyPeawb3.wocnQ62bhvRzM4xnwo0Xwbwb_sl7wCW.wbOuh6x9QczCMH9BQbrSt6R97vmzQCq.wv6gh6xSM6QL8BSBhoR9Inf_Z1euQCV.w64dh6JnRcz6Qi0BwDpat6rLyce03vG.QDkgh6p7RDlLIImSQbr7Qnfe_bV7QUNutodzRnSuQUALI5T0hoJ_3nf5d6V7Qbw2wcUNMblNwKNnx827RbWXQDzB5kl7Qvx0to443K0N8bYNx8RBQn2_F6wS7vzzF1ydwD1n86JNhve5x8AB8bSnrarKXbR.qY0OFK1FUcpFMaJMhIYEqsqqJOqE.aESrAEorqnLWuqTWGlTiF0nWkQcrs3_\";if($_ts.lcd)$_ts.lcd();</script><script type=\"text/javascript\" charset=\"utf-8\" src=\"/VLCSicruddwp/5cohI7j8Jall.2a95215.js\" r='m'></script></head>\n<body>\n</body>\n</html>\n<script type=\"text/javascript\" r='m'>_$bG();</script>\n"
+}

@@ -1,0 +1,250 @@
+URL: https://deepmind.google/models/gemini/
+Title field: Gemini Build intelligent agents
+og:title: N/A
+Meta Description: N/A
+og:description: N/A
+Published: N/A
+
+============================================================
+TEXT CONTENT (14218 chars):
+============================================================
+Gemini 3.5 — Google DeepMind Skip to main content
+Slide 1 of 5
+Gemini 3.5
+Frontier intelligence with action
+Try in Gemini
+Try in Google AI Studio
+Your browser does not support the video tag.
+Gemini 3.5 Flash
+Frontier performance for agents and coding
+Try in Gemini
+Learn more
+Your browser does not support the video tag.
+3.5 Pro coming soon Gemini 3.1 Pro
+Best for complex tasks and bringing creative concepts to life
+Try in Gemini
+Learn more
+Your browser does not support the video tag.
+Gemini 3.1 Deep Think
+Best for modern challenges across science, research and engineering
+Try in Gemini
+Learn more
+Your browser does not support the video tag.
+Gemini 3.1 Flash-Lite
+Best for high-volume tasks that need efficiency and intelligence
+Try in Gemini
+Learn more
+Your browser does not support the video tag.
+Explore the latest
+Introducing our latest series of models combining frontier intelligence with action. Build more capable, intelligent agents.
+Models
+Capabilities
+Performance
+Hands-on
+Showcase
+Safety
+Ecosystem
+Try Gemini
+Models
+Completing everyday tasks, or solving your most challenging problems. Discover the right model for what you need
+Your browser does not support the video tag.
+3.1 Pro
+Best for complex tasks and bringing creative concepts to life
+Learn more
+3.5 Pro coming soon
+Your browser does not support the video tag.
+3.5 Flash
+Best for frontier performance across agents and coding
+Learn more
+Your browser does not support the video tag.
+3.1 Flash-Lite
+Best for high-volume tasks that need efficiency and intelligence
+Learn more
+Capabilities
+Slide 1 of 4
+Agentic coding
+Tackle complex, development tasks with advanced reasoning at speed.
+Advanced multimodal understanding
+Transform text, images, video and audio into rich interactive user interfaces.
+Long horizon tasks
+Execute sophisticated workflows over extended timeframes.
+Multi-step problem-solving
+Leverage advanced tools to solve demanding, real-world problems.
+Performance
+Our most impressive model yet for agentic workflows. Gemini 3.5 is leading across a wide range of benchmarks.
+Benchmark Gemini 3.5 Flash Gemini 3 Flash Gemini 3.1 Pro Claude Sonnet 4.6 Claude Opus 4.7 GPT-5.5
+Coding Terminal-bench 2.1 Agentic terminal coding Terminus-2 harness 76.2% 58.0% 70.3% — 66.1% 78.2%
+SWE-Bench Pro (Public) Diverse agentic coding tasks Single attempt 55.1% 49.6% 54.2% — 64.3% 58.6%
+Agentic MCP Atlas Multi-step workflows using MCP 83.6% 62.0% 78.2% 69.5% 79.1% 75.3%
+Toolathlon Real-world general tool use 56.5% 49.4% — — — 55.6%
+UI Control OSWorld-Verified Agentic computer use 78.4% 65.1% 76.2% 72.5% 78.0% 78.7%
+Expert tasks Finance Agent v2 Financial analysis and decision-making 57.9% 42.6% 43.0% 51.0% 51.5% 51.8%
+GDPval-AA Economically valuable knowledge work Elo 1656 1204 1314 1676 1753 1769
+Multimodal CharXiv Reasoning Information synthesis from complex charts No tools 84.2% 80.3% 83.3% 72.4% 82.1% 84.1%
+MMMU-Pro Multimodal understanding and reasoning No tools 83.6% 81.2% 80.5% 74.5% 75.2% 81.2%
+Blueprint-Bench 2 Agentic spatial reasoning Normalized score 33.6% 0.0% 26.5% 6.7% 24.5% 36.2%
+Long context MRCR v2 (8-needle) Long context performance 128k (average) 77.3% 67.2% 84.9% 84.9% 59.3% 94.8%
+1M (pointwise) 26.6% 22.1% 26.3% — — —
+Reasoning Humanity’s Last Exam Academic reasoning (full set, text + MM) 40.2% 33.7% 44.4% 33.2% 46.9% 41.4%
+ARC-AGI-2 Abstract reasoning puzzles 72.1% 33.6% 77.1% 58.3% 75.8% 84.6%
+For details on our evaluation methodology please see deepmind.google/models/evals-methodology/gemini-3-5-flash
+Hands-on
+Explore what you can do with Gemini 3.5
+Slide 1 of 9
+Your browser does not support the video tag.
+Code faster through iterative loops
+See how Gemini 3.5 Flash generates six payment UI options in under 60 seconds.
+Your browser does not support the video tag.
+Develop multiple creative concepts in parallel
+See how Gemini 3.5 Flash can create 64 fractal variations at a high speed.
+Your browser does not support the video tag.
+Long horizon agentic execution
+See how Gemini 3.5 Flash ingests the AlphaGo paper and builds an intelligent game autonomously.
+Your browser does not support the video tag.
+Accelerate the creation of brand assets
+Watch how Gemini 3.5 Flash coordinates multiple workflows to generate and refine a brand for a fundraiser with minimal input.
+Your browser does not support the video tag.
+Generate interactive web animations in a single shot
+See how Gemini 3.5 Flash turns a text description into fully interactive HTML components.
+Your browser does not support the video tag.
+Create music through real-time collaboration
+See how Gemini 3.5 Flash coordinates multiple agents to create a song using the Strudel music library.
+Your browser does not support the video tag.
+Orchestrate multi-agent workflows
+Watch Gemini 3.5 Flash coordinate a team of specialized agents to design and build a virtual city.
+Your browser does not support the video tag.
+Organize large file collections efficiently
+See how Gemini 3.5 Flash deploys parallel agents to automatically rename and structure messy datasets.
+Your browser does not support the video tag.
+Build and improve a game with interactive agent loops
+Watch Gemini 3.5 Flash deploy agents to continuously refine a game in real time.
+Showcase
+Slide 1 of 6
+Your browser does not support the video tag.
+See how Shopify is using Gemini 3.5 Flash
+Shopify is running subagents in parallel to analyze complex data over a long horizon for more accurate merchant growth forecasts at a global scale.
+Your browser does not support the video tag.
+See how Macquarie Bank is using Gemini 3.5 Flash
+Macquarie Bank is piloting how 3.5 Flash can accelerate customer onboarding by reasoning over complex 100+ page documents, retrieving relevant information and making reliable recommendations with low latency.
+Your browser does not support the video tag.
+See how Salesforce is using Gemini 3.5 Flash
+Salesforce is integrating 3.5 Flash into Agentforce to reliably automate complicated enterprise tasks by deploying multiple subagents that retain context and execute complex, multi-turn tool calling.
+Your browser does not support the video tag.
+See how Ramp is using Gemini 3.5 Flash
+3.5 Flash is helping Ramp enable smarter, more reliable OCR through multimodal understanding of complex invoices combined with reasoning over historical patterns.
+Your browser does not support the video tag.
+See how Xero is using Gemini 3.5 Flash
+Xero is deploying agents to autonomously manage complex, multi-week workflows, such as identifying suppliers and gathering information for 1099 tax forms, enabling small businesses to automate tedious admin tasks.
+Your browser does not support the video tag.
+See how Databricks is using Gemini 3.5 Flash
+Databricks is using agentic workflows to monitor and retrieve real-time information, reason across massive datasets to diagnose issues, identify fixes and propose solutions for data scientists.
+Slide 1 of 13
+“Gemini's newest flash model advances the frontier for intelligence per dollar. It performs 42% better than Flash 3 on our long range, multi-turn cyber benchmark while achieving a 68% improvement in token efficiency. This makes it an excellent choice for defenders seeking to scale horizontally. We are excited to continue collaborating with the Gemini team to help give Armadin customers the edge.”
+David Slater, Chief Architect, Armadin
+“Gemini 3.5 Flash beat Gemini 3 Flash by 19.6% on Box’s enterprise work evaluation set, which we designed to reflect the kinds of real-world, multi-step tasks our customers perform daily with the Box Agent. We’re already seeing stronger performance in workflows that matter to specific industries. Our Life Sciences customers can use Gemini 3.5 Flash to extract data and make calculations with 96.4% greater accuracy, helping them process scientific information more reliably. For Financial Services firms, where exact measurement drives trust, it can build financial reports from structured data with 46.7% greater accuracy.”
+Ben Kus, Chief Technology Officer, Box
+“Gemini 3 has been a game-changer for Cline. We're using it to handle complex, long-horizon coding tasks that require deep context understanding across entire codebases. The model uses long context far more effectively than Gemini 2.5 Pro and has solved problems that stumped other leading models... This is a massive leap.”
+Nik Pash, Head of AI, Cline
+“We’re excited to partner with Google to launch Gemini 3 in Cursor! Gemini 3 Pro shows noticeable improvements in frontend quality, and works well for solving the most ambitious tasks.”
+Sualeh Asif, Co-founder and Chief Product Officer, Cursor
+“With Gemini 3 Pro in Figma Make, teams have a strong foundation to explore and steer their ideas with code-backed prototypes. The model translates designs with precision and generates a wide, inventive range of styles, layouts, and interactions. As foundation models get better, Figma gets better — and I’m excited to see how Gemini 3 Pro helps our community unlock new creative possibilities.”
+Loredana Crisan, Chief Design Officer, Figma
+“By bringing Gemini 3 Pro to GitHub Copilot, we’re seeing promising gains in how quickly and confidently developers can move from idea to code. In our early testing in VS Code, Gemini 3 Pro demonstrated 35% higher accuracy in resolving software engineering challenges than Gemini 2.5 Pro. That's the kind of potential that translates to developers solving real-world problems with more speed and effectiveness.”
+Joe Binder, VP of Product, GitHub
+“Gemini 3.5 Flash delivers coding and reasoning quality close to Gemini Pro, while preserving the speed and cost profile that make Flash ideal for real-time developer workflows. The new model also improves low reasoning coding performance by 10–20% compared to the previous Flash generation.”
+Nick Frolov, Head of Product, Junie, JetBrains
+“We’ve observed even stronger performance in the model’s reasoning and problem-solving capabilities. Many of Manus’ recent advancements—such as Wide Research and the web-building capabilities introduced in Manus 1.5—have become significantly more powerful with Gemini 3’s support.”
+Tao Zhang, Co-Founder and Chief Product Officer, Manus AI
+“Gemini 3 represents a significant advancement in multimodal AI... From accurately transcribing 3-hour multilingual meetings with superior speaker identification, to extracting structured data from poor-quality document photos, outperforming baseline models by over 50%, it showcased impressive capabilities that redefine enterprise potential.”
+Yusuke Kaji, General Manager, AI for Business, Rakuten Group Inc
+“Gemini 3 Pro truly stands out for its design capabilities, offering an unprecedented level of flexibility while creating apps. Like a skilled UI designer, it can range from well-organized wireframes to stunning high-fidelity prototypes.”
+Michele Catasta, President & Head of AI, Replit
+“Gemini 3 is a major leap forward for agentic AI. It follows complex instructions with minimal prompt tuning and reliably calls tools, which are critical capabilities to build truly helpful agents.”
+Mikhail Parakhin, Chief Technology Officer, Shopify
+“Our early evaluations indicate that Gemini 3 is delivering state-of-the-art reasoning with depth and nuance. We have observed measurable and significant progress in both legal reasoning and complex contract understanding.”
+Joel Hron, Chief Technology Officer, Thomson Reuters
+“At Wayfair, we’ve been piloting Google’s Gemini 3 Pro to turn complex partner support SOPs into clear, data-accurate infographics for our field associates. Compared with Gemini 2.5 Pro, it’s a clear step forward in handling structured business tasks that require precision and consistency — helping our teams grasp key information faster and support partners more effectively.”
+Fiona Tan, CTO, Wayfair
+Get started
+Build with Gemini 3.5
+Slide 1 of 4
+Google Antigravity
+Our AI-first development platform that allows anyone to be a builder
+Download
+Build with Gemini
+Your browser does not support the video tag.
+Google AI Studio
+Leap from prompt to production
+Build with Gemini
+Your browser does not support the video tag.
+Gemini API
+Get started building with cutting-edge AI models
+Build with Gemini
+Your browser does not support the video tag.
+Gemini Enterprise Agent Platform
+Build, scale, and govern agents
+Build with Gemini
+Your browser does not support the video tag.
+Safety
+Building with responsibility at the core
+As we develop these new technologies, we recognize the responsibility it entails, and aim to prioritize safety and security in all our efforts.
+Learn more
+Gemini Ecosystem
+Slide 1 of 6
+Gemini 3.1 Deep Think
+Best for modern challenges across science, research and engineering
+Learn more
+Your browser does not support the video tag.
+Gemini Omni
+Create anything from anything, starting with video
+Learn more
+Gemini Image (Nano Banana)
+State-of-the-art image generation and editing models, built on Gemini
+Learn more
+Gemini Audio
+Advanced real-time audio models, built on Gemini
+Learn more
+Gemini Robotics
+Our most advanced vision-language-action model
+Learn more
+Gemini Embedding 2
+State-of-the-art multimodal embedding model
+Learn more
+Gemini 3.1 Deep Think
+Best for modern challenges across science, research and engineering
+Learn more
+Your browser does not support the video tag.
+Gemini Omni
+Create anything from anything, starting with video
+Learn more
+Gemini Image (Nano Banana)
+State-of-the-art image generation and editing models, built on Gemini
+Learn more
+Gemini Audio
+Advanced real-time audio models, built on Gemini
+Learn more
+Gemini Robotics
+Our most advanced vision-language-action model
+Learn more
+Gemini Embedding 2
+State-of-the-art multimodal embedding model
+Learn more
+Try Gemini
+Gemini
+Supercharge your creativity and productivity
+Try Gemini
+AI Mode
+Ask whatever's on your mind to get an AI powered response
+Try in AI Mode
+Google AI Studio
+The fastest path from prompt to production
+Try in Google AI Studio
+Google Antigravity
+Our AI-first development platform that allows anyone to be a builder
+Download Google Antigravity
+Gemini API
+Get started building with cutting-edge AI models
+Learn more
+Gemini Enterprise Agent Platform
+Build, scale, and govern agents
+Learn more

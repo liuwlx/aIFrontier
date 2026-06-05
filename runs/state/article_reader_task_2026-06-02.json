@@ -1,0 +1,305 @@
+{
+  "date": "2026-06-02",
+  "items": [
+    {
+      "title": "Executive Insights podcast",
+      "source_url": "https://aws.amazon.com/executive-insights/podcast/",
+      "source_name": "AWS Executive Insights",
+      "source_type": "executive_insights",
+      "time_display": "2026-06-02 18:31（北京时间）",
+      "time_display_type": "fetched_at",
+      "topic": "executive_insights",
+      "importance": "high"
+    },
+    {
+      "title": "agentic AI",
+      "source_url": "https://aws.amazon.com/ai/agentic-ai/",
+      "source_name": "AWS Executive Insights",
+      "source_type": "executive_insights",
+      "time_display": "2026-06-02 18:31（北京时间）",
+      "time_display_type": "fetched_at",
+      "topic": "executive_insights",
+      "importance": "high"
+    },
+    {
+      "title": "agentic AI",
+      "source_url": "https://aws.amazon.com/executive-insights/content/an-executives-guide-to-agentic-ai/",
+      "source_name": "AWS Executive Insights",
+      "source_type": "executive_insights",
+      "time_display": "2026-06-02 18:31（北京时间）",
+      "time_display_type": "fetched_at",
+      "topic": "executive_insights",
+      "importance": "high"
+    },
+    {
+      "title": "AWS Executives in Residence",
+      "source_url": "https://aws.amazon.com/executive-insights/enterprise-strategists/",
+      "source_name": "AWS Executive Insights",
+      "source_type": "executive_insights",
+      "time_display": "2026-06-02 18:31（北京时间）",
+      "time_display_type": "fetched_at",
+      "topic": "executive_insights",
+      "importance": "high"
+    },
+    {
+      "title": "Tom Soderstrom",
+      "source_url": "https://aws.amazon.com/executive-insights/enterprise-strategists/tom-soderstrom/",
+      "source_name": "AWS Executive Insights",
+      "source_type": "executive_insights",
+      "time_display": "2026-06-02 18:31（北京时间）",
+      "time_display_type": "fetched_at",
+      "topic": "executive_insights",
+      "importance": "high"
+    },
+    {
+      "title": "AWS Cloud Security",
+      "source_url": "https://aws.amazon.com/security/?nc1=f_cc",
+      "source_name": "AWS CDO Agenda",
+      "source_type": "data_leader_view",
+      "time_display": "2026-06-02 18:31（北京时间）",
+      "time_display_type": "fetched_at",
+      "topic": "data_platform",
+      "importance": "high"
+    },
+    {
+      "title": "What's New",
+      "source_url": "https://aws.amazon.com/new/?nc1=f_cc",
+      "source_name": "AWS CDO Agenda",
+      "source_type": "data_leader_view",
+      "time_display": "2026-06-02 18:31（北京时间）",
+      "time_display_type": "fetched_at",
+      "topic": "data_platform",
+      "importance": "high"
+    },
+    {
+      "title": "Getting Started",
+      "source_url": "https://aws.amazon.com/getting-started/?nc1=f_cc",
+      "source_name": "AWS CDO Agenda",
+      "source_type": "data_leader_view",
+      "time_display": "2026-06-02 18:31（北京时间）",
+      "time_display_type": "fetched_at",
+      "topic": "data_platform",
+      "importance": "high"
+    },
+    {
+      "title": "Training",
+      "source_url": "https://aws.amazon.com/training/?nc1=f_cc",
+      "source_name": "AWS CDO Agenda",
+      "source_type": "data_leader_view",
+      "time_display": "2026-06-02 18:31（北京时间）",
+      "time_display_type": "fetched_at",
+      "topic": "data_platform",
+      "importance": "high"
+    },
+    {
+      "title": "AWS Trust Center",
+      "source_url": "https://aws.amazon.com/trust-center/?nc1=f_cc",
+      "source_name": "AWS CDO Agenda",
+      "source_type": "data_leader_view",
+      "time_display": "2026-06-02 18:31（北京时间）",
+      "time_display_type": "fetched_at",
+      "topic": "data_platform",
+      "importance": "high"
+    },
+    {
+      "title": "AWS Well-Architected",
+      "source_url": "https://aws.amazon.com/architecture/well-architected/?achp_navwa1",
+      "source_name": "AWS Whitepapers",
+      "source_type": "whitepapers",
+      "time_display": "2026-06-02 18:31（北京时间）",
+      "time_display_type": "fetched_at",
+      "topic": "whitepapers",
+      "importance": "high"
+    },
+    {
+      "title": "Explore the Framework",
+      "source_url": "https://aws.amazon.com/architecture/well-architected/?achp_expl1",
+      "source_name": "AWS Architecture Center",
+      "source_type": "genai_architecture",
+      "time_display": "2026-06-02 18:31（北京时间）",
+      "time_display_type": "fetched_at",
+      "topic": "architecture",
+      "importance": "high"
+    },
+    {
+      "title": "Explore all the guides",
+      "source_url": "https://aws.amazon.com/getting-started/decision-guides/?achp_expl4",
+      "source_name": "AWS Architecture Center",
+      "source_type": "genai_architecture",
+      "time_display": "2026-06-02 18:31（北京时间）",
+      "time_display_type": "fetched_at",
+      "topic": "architecture",
+      "importance": "high"
+    },
+    {
+      "title": "AWS launches frontier agents for security testing and cloud operations",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/aws-launches-frontier-agents-for-security-testing-and-cloud-operations/",
+      "source_name": "AWS Machine Learning Blog",
+      "source_type": "ai_ml_practice_blog",
+      "time_display": "2026-04-01 00:25（北京时间）",
+      "time_display_type": "published_at",
+      "topic": "bedrock",
+      "importance": "high"
+    },
+    {
+      "title": "Announcements",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/category/post-types/announcements/",
+      "source_name": "AWS Machine Learning Blog",
+      "source_type": "ai_ml_practice_blog",
+      "time_display": "2026-06-01（来源未披露时区）",
+      "time_display_type": "published_at",
+      "topic": "bedrock",
+      "importance": "high"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/",
+      "source_name": "AWS Machine Learning Blog",
+      "source_type": "ai_ml_practice_blog",
+      "time_display": "2026-06-01（来源未披露时区）",
+      "time_display_type": "published_at",
+      "topic": "bedrock",
+      "importance": "high"
+    },
+    {
+      "title": "Security & Governance",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/category/business-intelligence/security-governance/",
+      "source_name": "AWS Machine Learning Blog",
+      "source_type": "ai_ml_practice_blog",
+      "time_display": "2026-03-31（来源未披露时区）",
+      "time_display_type": "published_at",
+      "topic": "bedrock",
+      "importance": "high"
+    },
+    {
+      "title": "Thought Leadership",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/category/post-types/thought-leadership/",
+      "source_name": "AWS Machine Learning Blog",
+      "source_type": "ai_ml_practice_blog",
+      "time_display": "2026-05-26（来源未披露时区）",
+      "time_display_type": "published_at",
+      "topic": "bedrock",
+      "importance": "high"
+    },
+    {
+      "title": "Top announcements of the What’s Next with AWS, 2026",
+      "source_url": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-whats-next-with-aws-2026/",
+      "source_name": "AWS News Blog",
+      "source_type": "product_releases",
+      "time_display": "2026-04-29 02:11（北京时间）",
+      "time_display_type": "published_at",
+      "topic": "product_release",
+      "importance": "high"
+    },
+    {
+      "title": "Amazon Bedrock",
+      "source_url": "https://aws.amazon.com/blogs/aws/category/artificial-intelligence/amazon-machine-learning/amazon-bedrock/",
+      "source_name": "AWS News Blog",
+      "source_type": "product_releases",
+      "time_display": "2026-06-01（来源未披露时区）",
+      "time_display_type": "published_at",
+      "topic": "product_release",
+      "importance": "high"
+    },
+    {
+      "title": "Amazon Connect",
+      "source_url": "https://aws.amazon.com/blogs/aws/category/messaging/amazon-connect/",
+      "source_name": "AWS News Blog",
+      "source_type": "product_releases",
+      "time_display": "2026-03-23（来源未披露时区）",
+      "time_display_type": "published_at",
+      "topic": "product_release",
+      "importance": "high"
+    },
+    {
+      "title": "Amazon Quick Suite",
+      "source_url": "https://aws.amazon.com/blogs/aws/category/artificial-intelligence/amazon-quick-suite/",
+      "source_name": "AWS News Blog",
+      "source_type": "product_releases",
+      "time_display": "2026-01-19（来源未披露时区）",
+      "time_display_type": "published_at",
+      "topic": "product_release",
+      "importance": "high"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "source_url": "https://aws.amazon.com/blogs/aws/category/artificial-intelligence/",
+      "source_name": "AWS News Blog",
+      "source_type": "product_releases",
+      "time_display": "2026-06-01（来源未披露时区）",
+      "time_display_type": "published_at",
+      "topic": "product_release",
+      "importance": "high"
+    },
+    {
+      "title": "Investor Relations",
+      "source_url": "https://ir.aboutamazon.com/overview/default.aspx",
+      "source_name": "Amazon Shareholder Letters",
+      "source_type": "company_strategy",
+      "time_display": "2025-05-21（来源未披露时区）",
+      "time_display_type": "published_at",
+      "topic": "company_strategy",
+      "importance": "high"
+    },
+    {
+      "title": "Quarterly results",
+      "source_url": "https://ir.aboutamazon.com/quarterly-results/default.aspx",
+      "source_name": "Amazon Shareholder Letters",
+      "source_type": "company_strategy",
+      "time_display": "2026-06-02 18:32（北京时间）",
+      "time_display_type": "fetched_at",
+      "topic": "company_strategy",
+      "importance": "high"
+    },
+    {
+      "title": "SEC filings",
+      "source_url": "https://ir.aboutamazon.com/sec-filings/default.aspx",
+      "source_name": "Amazon Shareholder Letters",
+      "source_type": "company_strategy",
+      "time_display": "2026-06-02 18:32（北京时间）",
+      "time_display_type": "fetched_at",
+      "topic": "company_strategy",
+      "importance": "high"
+    },
+    {
+      "title": "Officers and directors",
+      "source_url": "https://ir.aboutamazon.com/officers-and-directors/default.aspx",
+      "source_name": "Amazon Shareholder Letters",
+      "source_type": "company_strategy",
+      "time_display": "2026-06-02 18:33（北京时间）",
+      "time_display_type": "fetched_at",
+      "topic": "company_strategy",
+      "importance": "high"
+    },
+    {
+      "title": "Corporate governance",
+      "source_url": "https://ir.aboutamazon.com/corporate-governance/default.aspx",
+      "source_name": "Amazon Shareholder Letters",
+      "source_type": "company_strategy",
+      "time_display": "2026-06-02 18:33（北京时间）",
+      "time_display_type": "fetched_at",
+      "topic": "company_strategy",
+      "importance": "high"
+    },
+    {
+      "title": "Executive Insights - Cloud Computing Executive Insights - AWS x facebook linkedin instagram twitch youtube podcasts email",
+      "source_url": "https://aws.amazon.com/executive-insights/",
+      "source_name": "AWS Executive Insights",
+      "source_type": "executive_insights",
+      "time_display": "2026-06-02 18:22（北京时间）",
+      "time_display_type": "fetched_at",
+      "topic": "executive_insights",
+      "importance": "high"
+    },
+    {
+      "title": "CDO Agenda 2025: Scaling Generative AI for Value x facebook linkedin instagram twitch youtube podcasts email",
+      "source_url": "https://aws.amazon.com/data/cdo-report/",
+      "source_name": "AWS CDO Agenda",
+      "source_type": "data_leader_view",
+      "time_display": "2026-06-02 18:25（北京时间）",
+      "time_display_type": "fetched_at",
+      "topic": "data_platform",
+      "importance": "high"
+    }
+  ]
+}

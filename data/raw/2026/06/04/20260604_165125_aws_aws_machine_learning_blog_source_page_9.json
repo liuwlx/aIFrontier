@@ -1,0 +1,39 @@
+{
+  "kind": "source_page",
+  "provider": "AWS",
+  "source_name": "AWS Machine Learning Blog",
+  "source_type": "ai_ml_practice_blog",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "parent_source_url": null,
+  "configured_source_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "priority": "high",
+  "crawl_frequency": "daily",
+  "topics": [
+    "bedrock",
+    "rag",
+    "agents",
+    "ai_ml_practice_blog"
+  ],
+  "language": "en",
+  "access": "public",
+  "time_extraction": {
+    "preferred_fields": [
+      "published_at",
+      "updated_at",
+      "article_meta_time",
+      "json_ld_time"
+    ],
+    "fallback": "fetched_at"
+  },
+  "fetched_at": "2026-06-04T16:51:25+08:00",
+  "status": "failed",
+  "status_code": null,
+  "content_type": "",
+  "elapsed_ms": 712,
+  "truncated": false,
+  "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>",
+  "title": "",
+  "page_title": "",
+  "candidates": [],
+  "html": ""
+}

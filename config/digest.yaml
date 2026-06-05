@@ -1,0 +1,51 @@
+digest:
+  timezone: "Asia/Shanghai"
+  daily_output_pattern: "reports/daily/{yyyy}/{mm}/{yyyy}-{mm}-{dd}.md"
+  title_template: "前沿资讯日报 {date}"
+  max_items: 30
+  min_items: 5
+  language: "zh-CN"
+  item_required_fields:
+    - "summary"
+    - "article_summary"
+    - "why_it_matters"
+    - "action_hint"
+    - "reader_status"
+    - "reader_ran_at"
+    - "summary_source"
+    - "source_name"
+    - "source_url"
+    - "time_display"
+    - "time_display_type"
+    - "fetched_at"
+  reader:
+    required: true
+    agent_name: "Article Reader Agent"
+    output_path_pattern: "data/agent-readings/{yyyy}/{mm}/{yyyy}-{mm}-{dd}.article-reader-agent.jsonl"
+    allowed_status:
+      - "read"
+    official_summary_source: "article_reader_agent"
+    forbid_local_extractive_summary: true
+  time_display:
+    timezone_label: "北京时间"
+    datetime_format: "%Y-%m-%d %H:%M"
+    date_format: "%Y-%m-%d"
+    require_time_note: true
+  ranking:
+    importance_order:
+      - "high"
+      - "medium"
+      - "low"
+    relevance_weights:
+      business_relevance: 1
+      architecture_relevance: 1
+      product_relevance: 1
+  validation:
+    require_markdown_source_link: true
+    require_source_time_or_fetched_time: true
+    require_article_reader: true
+    forbid_title_only_summary: true
+    require_reader_evidence: true
+    forbid_fabricated_exact_time: true
+    require_summary_explanation_section: true
+    require_time_explanation_section: true

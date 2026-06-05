@@ -1,0 +1,38 @@
+{
+  "kind": "candidate_page",
+  "provider": "NVIDIA",
+  "source_name": "NVIDIA GTC",
+  "source_type": "annual_conference",
+  "source_url": "https://www.nvidia.com/en-us/account/",
+  "parent_source_url": "https://www.nvidia.com/gtc/",
+  "configured_source_url": "https://www.nvidia.com/gtc/",
+  "priority": "medium",
+  "crawl_frequency": "weekly",
+  "topics": [
+    "annual_conference",
+    "gpu",
+    "ai"
+  ],
+  "language": "en",
+  "access": "public",
+  "time_extraction": {
+    "preferred_fields": [
+      "published_at",
+      "updated_at",
+      "article_meta_time",
+      "json_ld_time"
+    ],
+    "fallback": "fetched_at"
+  },
+  "fetched_at": "2026-06-04T16:53:54+08:00",
+  "status": "success",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "elapsed_ms": 1290,
+  "truncated": false,
+  "error": null,
+  "title": "My Account",
+  "page_title": "NVIDIA",
+  "candidates": [],
+  "html": "<!doctype html><html lang=\"en-us\"><head><meta charset=\"UTF-8\"/><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><title>NVIDIA</title></head><body><div id=\"wrapper-root\"></div><div id=\"content\"></div><div id=\"footer-container\"></div></body><script src=\"/assets/account-wrapper/wrapper.js\"></script></html>\n\n\n"
+}

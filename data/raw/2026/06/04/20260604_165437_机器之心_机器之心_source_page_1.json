@@ -1,0 +1,39 @@
+{
+  "kind": "source_page",
+  "provider": "机器之心",
+  "source_name": "机器之心",
+  "source_type": "ai_ml_practice_blog",
+  "source_url": "https://www.jiqizhixin.com/",
+  "parent_source_url": null,
+  "configured_source_url": "https://www.jiqizhixin.com/",
+  "priority": "medium",
+  "crawl_frequency": "daily",
+  "topics": [
+    "ai_ml_practice_blog",
+    "research",
+    "china_ai"
+  ],
+  "language": "zh-CN",
+  "access": "public",
+  "time_extraction": {
+    "preferred_fields": [
+      "published_at",
+      "updated_at",
+      "article_meta_time",
+      "json_ld_time",
+      "list_page_time"
+    ],
+    "fallback": "fetched_at"
+  },
+  "fetched_at": "2026-06-04T16:54:37+08:00",
+  "status": "success",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "elapsed_ms": 239,
+  "truncated": false,
+  "error": null,
+  "title": "机器之心·数据服务",
+  "page_title": "机器之心·数据服务",
+  "candidates": [],
+  "html": "<!DOCTYPE html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"UTF-8\"/>\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/>\n<title>机器之心·数据服务</title>\n<link href=\"https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@700&family=JetBrains+Mono&display=swap\" rel=\"stylesheet\"/>\n<style>\n*{box-sizing:border-box;margin:0;padding:0}\nbody{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:2rem;font-family:'Noto Serif SC',serif;background:#0a0c10 linear-gradient(rgba(255,255,255,.03)1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.03)1px,transparent 1px);background-size:48px 48px;overflow:hidden}\nbody::before{content:'';position:fixed;top:-20%;left:50%;transform:translateX(-50%);width:600px;height:600px;background:radial-gradient(ellipse,rgba(0,229,160,.07),transparent 70%);pointer-events:none}\n.c{position:relative;background:#111418;border:1px solid #1e2530;border-radius:4px;padding:3rem 3.5rem;max-width:600px;width:100%;text-align:center;box-shadow:0 -1px 0 #00e5a0,0 32px 80px rgba(0,0,0,.6);animation:u .7s ease both}\n.c::before,.c::after{content:'';position:absolute;width:16px;height:16px;border-color:#00e5a0;border-style:solid;opacity:.4}\n.c::before{top:-1px;left:-1px;border-width:2px 0 0 2px}\n.c::after{bottom:-1px;right:-1px;border-width:0 2px 2px 0}\n@keyframes u{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}\n.tag{font-family:'JetBrains Mono',monospace;font-size:.65rem;letter-spacing:.2em;text-transform:uppercase;color:#00e5a0;background:rgba(0,229,160,.12);display:inline-block;padding:.3em .9em;border-radius:2px;border:1px solid rgba(0,229,160,.25);margin-bottom:1.8rem}\nh1{font-size:clamp(1.25rem,4vw,1.65rem);font-weight:700;line-height:1.7;color:#eef0f4;letter-spacing:.04em}\nh1 em{font-style:normal;color:#00e5a0}\n.d{display:flex;align-items:center;gap:.6rem;margin:1.8rem 0}\n.d::before{content:'';flex:1;height:1px;background:linear-gradient(90deg,transparent,#1e2530)}\n.d::after{content:'';flex:1;height:1px;background:linear-gradient(90deg,#1e2530,transparent)}\n.d span{width:5px;height:5px;border-radius:50%;background:#00e5a0;opacity:.6}\n.btn{display:inline-block;padding:.8em 2.2em;background:#00e5a0;color:#050a07;font-family:'Noto Serif SC',serif;font-size:.9rem;font-weight:700;letter-spacing:.08em;text-decoration:none;border-radius:3px;transition:background .2s,transform .2s,box-shadow .2s}\n.btn::after{content:' →'}\n.btn:hover{background:#00ffb3;transform:translateY(-2px);box-shadow:0 8px 28px rgba(0,229,160,.28)}\n.note{margin-top:2rem;font-family:'JetBrains Mono',monospace;font-size:.7rem;color:#7a8494}\n.note a{color:#7a8494;text-decoration:none;border-bottom:1px solid #1e2530;transition:color .2s}\n.note a:hover{color:#00e5a0}\n@media(max-width:500px){.c{padding:2rem 1.5rem}}\n</style>\n</head>\n<body>\n<div class=\"c\">\n  <span class=\"tag\">机器之心·数据服务</span>\n  <h1>还在<em>费劲</em>爬数据？<br>机器之心数据服务已上线<br>直接获取数据，<em>高效又稳定</em>！</h1>\n  <div class=\"d\"><span></span></div>\n  <a class=\"btn\" href=\"https://www.jiqizhixin.com/rss\" target=\"_blank\" rel=\"noopener\">前往了解</a>\n  <p class=\"note\">276a835d17805632780477399e80f2 深入合作请联系：<a href=\"mailto:zhaoyunfeng@jiqizhixin.com\">zhaoyunfeng@jiqizhixin.com</a></p>\n</div>\n</body>\n</html>"
+}

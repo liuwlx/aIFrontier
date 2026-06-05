@@ -1,0 +1,91 @@
+topics:
+  ai_foundation_models:
+    label: "基础模型"
+    keywords:
+      - "foundation model"
+      - "large language model"
+      - "LLM"
+      - "multimodal"
+      - "大模型"
+      - "多模态"
+  agents:
+    label: "Agent"
+    keywords:
+      - "agent"
+      - "agents"
+      - "agentic"
+      - "tool use"
+      - "computer use"
+      - "智能体"
+  rag:
+    label: "RAG"
+    keywords:
+      - "RAG"
+      - "retrieval"
+      - "vector database"
+      - "knowledge base"
+      - "检索增强"
+  enterprise_genai_platform:
+    label: "企业 GenAI 平台"
+    keywords:
+      - "enterprise generative AI"
+      - "AI platform"
+      - "GenAI platform"
+      - "AI Studio"
+      - "LLMOps"
+      - "企业级"
+  ai_governance:
+    label: "AI 治理与安全"
+    keywords:
+      - "governance"
+      - "safety"
+      - "security"
+      - "guardrails"
+      - "responsible AI"
+      - "治理"
+      - "安全"
+  data_platform:
+    label: "数据平台"
+    keywords:
+      - "data platform"
+      - "data lake"
+      - "data governance"
+      - "CDO"
+      - "数据平台"
+      - "数据治理"
+  architecture:
+    label: "架构"
+    keywords:
+      - "architecture"
+      - "reference architecture"
+      - "well-architected"
+      - "production"
+      - "架构"
+      - "生产级"
+  product_release:
+    label: "产品发布"
+    keywords:
+      - "launch"
+      - "release"
+      - "available"
+      - "announcing"
+      - "发布"
+      - "上线"
+  industry_report:
+    label: "行业报告"
+    keywords:
+      - "report"
+      - "index"
+      - "survey"
+      - "whitepaper"
+      - "报告"
+      - "白皮书"
+  robotics_embodied_ai:
+    label: "机器人与具身智能"
+    keywords:
+      - "robot"
+      - "robotics"
+      - "embodied AI"
+      - "humanoid"
+      - "机器人"
+      - "具身智能"

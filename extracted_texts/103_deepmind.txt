@@ -1,0 +1,147 @@
+URL: https://deepmind.google/models/gemini-omni/
+Title field: Gemini Omni Create anything from anything
+og:title: N/A
+Meta Description: N/A
+og:description: N/A
+Published: N/A
+
+============================================================
+TEXT CONTENT (11495 chars):
+============================================================
+Gemini Omni — Google DeepMind Skip to main content
+Slide 1 of 4
+Gemini Omni
+Create anything from any input – starting with video
+Try in Gemini
+Try in Google Flow
+Learn how to prompt
+Your browser does not support the video tag.
+Edit any video through natural, step-by-step conversation
+Think of Gemini Omni like Nano Banana, but for video. Every edit you make builds on the one before – maintaining a consistent, coherent scene.
+Try in Gemini
+Try in Google Flow
+Your browser does not support the video tag.
+Apply real world knowledge
+Gemini Omni combines an intuitive understanding of physics with Gemini's knowledge of history, science, and cultural context – bridging the gap from photorealism to meaningful storytelling.
+Try in Gemini
+Try in Google Flow
+Your browser does not support the video tag.
+Reference anything
+Turn any reference—image, text, video, or audio—into a single, cohesive output.
+Try in Gemini
+Try in Google Flow
+Your browser does not support the video tag.
+Explore the latest
+Gemini Omni is where Gemini’s ability to reason meets the ability to create. It delivers a leap in world understanding, multimodality, and editing.
+View prompt guide
+Your browser does not support the video tag.
+Edit through natural conversation
+Think of Gemini Omni like Nano Banana – but for video. Build and fine-tune your creation at any step with natural language.
+Transform your world
+Change the aesthetic, action, or effect based on your input video.
+Slide 1 of 5
+Your browser does not support the video tag.
+Prompt: When the person touches the mirror, make the mirror ripple beautifully like liquid, and the person's arm turns into reflective mirror material
+Your browser does not support the video tag.
+Prompt: When the person touches the mirror, the person transforms into a detailed monochrome line art drawing
+Your browser does not support the video tag.
+Prompt: When the person touches the mirror, the person suddenly transforms into a cute felted stuffed puppet version with large googley eyes and glasses
+Your browser does not support the video tag.
+Prompt: When the person touches the mirror, the person instantly transform into a vintage monochrome transparent 3d line art hologram, inside of a monochrome 3d holodeck maintaining the structure and details of the room and environment
+Your browser does not support the video tag.
+Prompt: When the person touches the mirror, the entire environment turns into 3d voxel art
+Reimagine the action
+Switch up what happens in your videos, from the ordinary to the spectacular.
+Your browser does not support the video tag.
+Prompt: Make it look like the weird shape of my hand hole super zooms and magnifies the ground it's looking at in sharper quality.
+Your browser does not support the video tag.
+Prompt: When the finger in <video> touches the animal toy play the sound the animal makes
+Your browser does not support the video tag.
+Prompt: The lights of the apartments start turning on in sync with the music.
+Edit real videos based on images
+Use reference images to edit your creations, giving you even more creative control.
+Slide 1 of 3
+Prompt: When the hand opens, make a vast 3d architectural structure based on this image start building upward, sitting in the palm of the hand, reflecting prismatic light onto the hand and table. It builds with a 3d wireframe holographic effect. No music, just realistic real world sound.
+Prompt: When the hand opens, reveal a sun floating in the center of the hand (sun should be animated, subtle solar flare movement) with bronze balls orbiting around it in mid air (no wires). When the hand opens make the lights dim to become nighttime, but keep the video the same until the hand opens. No music, just realistic sound.
+Prompt: When the hand opens, reveal a physical photorealistic flying machine based on this sketch, floating above the hand, propeller spinning. No music, just realistic sound.
+Edit over multiple turns, with consistency
+Craft your scene step-by-step, changing specific details, environments, camera angles, and more.
+Your browser does not support the video tag.
+Input video
+Your browser does not support the video tag.
+Prompt: Transport the violinist to the image environment
+Your browser does not support the video tag.
+Prompt: Make the violin invisible
+Your browser does not support the video tag.
+Prompt: Change the camera angle to be over the violinist’s shoulder.
+Swap in different objects or characters with natural language
+Replace characters and objects in your video just by asking, all while maintaining a coherent, cohesive scene.
+Prompt: Change spaceship to <object>
+Bring ideas to life, grounded in Gemini’s world knowledge
+Create scenes that follow real-world logic. Gemini Omni pulls from its deep knowledge of history, biology, and narrative logic to construct compelling stories.
+Create output that follows real-world physics
+Omni has an intuitive understanding of forces like gravity, kinetic energy, and fluid dynamics for more realistic movement.
+Your browser does not support the video tag.
+Prompt: A marble rolling fast on a chain reaction style track, continuous smooth shot
+Draw on real-world history, science, and math
+Omni understands world history, science, and math – and knows how to craft stories around it.
+Your browser does not support the video tag.
+Prompt: claymation explainer of protein folding, everything is made out of clay, no hands, stop motion, accurate
+Your browser does not support the video tag.
+Prompt: A skeuomorphism stop motion explainer about how the brain hippocampus works with a compelling voiceover. Don’t add seahorses. No voice cuts at the end. Don’t add text.
+Sync text with onscreen action
+Go beyond just rendering realistic text. Create videos that coherently connect text to what’s happening in the video.
+Your browser does not support the video tag.
+Prompt: The video shows items of the alphabet. An unusual item starting with each letter is shown sitting on a table (like a Capybara for C, disco globe for D and Lava Lamp for L). All 26 letters must be represented by 26 items with matching lower thirds displaying the letter. Only one item and lower third at a time. Each lower third must look like a black marker written on a slip of paper in the bottom left. Rapid fire, roughly 9 frames per item at 24FPS. Last frame is a slip of paper "THE END". The whole video is accompanied by calm smooth music.
+Your browser does not support the video tag.
+Prompt: word by word, one word on a the screen at a time: did, you, know, that, this, model, can, do, pretty, good, text!? each word appears with a different animated style, perfect pacing to a rhythm, sizzle reel
+Reference anything
+Reference and combine ingredients to maintain control and consistency over your scene.
+Combine multiple inputs
+Prompt with different inputs, and leave Gemini Omni to craft them into a single compelling narrative.
+Slide 1 of 3
+Prompt: Referring to the extreme camera movement, perspective, and distortion in <video>, create a front-facing full-body walk cycle of the character from <image>, quickly style-shifting into multiple visual styles during the walk cycle, starting from realistic cinema. Keep the environment, only change styles. Hard cut backgrounds always centering the sky. Continuous walking, continuous audio, and style shifts in perfect sync to the beat of the audio. Cinematic, 16:9.
+Prompt: Add harp sounds synchronized to when I touch each fern leaf. Change the leaf structure to all resemble semi translucent 3d bioluminescent plant life, with bioluminescent fireflies flying around it that react as I play, in sync with the sounds, subtle bokeh depth of field dynamic lighting, relecting off the walls in the room, keeping the room structure the same
+Prompt: Imagine the world gradually changing into retro futuristic style (grainy and moody as <image>) as I walk. Use the audio for a retro-futuristic background music. 10s.
+Transfer motion and styles
+Apply motion and style references from an image or video across to your output.
+Slide 1 of 3
+Prompt: Apply the pose and motion from input video to provided character from this image. Apply style from image reference to the new video
+Prompt: Rose is made from this crystal-like material
+Prompt: Apply the motion of the whale swimming from the provided video to the provided image of fluid reflective material. Do not show the whale or water; instead, have this reflective moving material form a shape that resembles the whale as it swims. Replace water with white smooth material shapes that move
+Swap characters or objects with a reference image
+Provide an image of a character with your video, and the new character will match your motion and dialogue seamlessly.
+Slide 1 of 3
+Prompt: turn me into this character
+Prompt: turn me into this character
+Prompt: turn me into this character
+Translate drawings into video
+Turn sketches into realistic video – and use your doodles to guide how individual elements should move.
+Slide 1 of 3
+Prompt: turn this into realistic footage, using the drawing only as a guide for movement, do not show the drawing in the final video
+Prompt: turn this into realistic footage, using the drawing only as a guide for movement, do not show the drawing in the final video
+Prompt: turn this into realistic footage, using the drawing only as a guide for movement, do not show the drawing in the final video
+Creating your prompts
+Use our prompt guide to create realistic, coherent, and creative output.
+Learn how to prompt
+Your browser does not support the video tag.
+Safety
+From development to deployment
+Gemini Omni Flash was developed in partnership with internal safety, security, and responsibility teams. A range of evaluations and red teaming activities were conducted to help improve the model and inform decision-making. These evaluations and activities align with Google's AI Principles and responsible AI approach , as well as Google's Generative AI policies (e.g. Gen AI Prohibited Use Policy and the Gemini API Additional Terms of Service ). Evaluation types included but were not limited to:
+Training/development evaluations including automated and human evaluations carried out continuously throughout and after the model’s training, to monitor its progress and performance
+Human red teaming conducted by specialist teams who sit outside of the model development team, across the policies and desiderata, deliberately trying to spot weaknesses and ensure the model adheres to safety policies and desired outcomes
+Automated red teaming to dynamically evaluate Gemini Omni Flash for safety and security considerations at scale, complementing human red teaming and static evaluations
+Ethics and safety reviews conducted ahead of the model’s release
+Content created or edited with Omni in the Gemini app, Google Flow or YouTube includes our imperceptible SynthID digital watermark and C2PA Content Credentials . You can easily verify content through the Gemini app and coming soon to Chrome and Search. You can find out more about how we're expanding our content transparency and verification tools to help you understand how content was created and edited across the web in our blog post .
+Learn more
+Try Gemini Omni
+Gemini
+Supercharge your creativity and productivity
+Try in Gemini
+Google Flow
+An AI creative studio built with and for creatives
+Try in Google Flow
+YouTube Shorts
+A shorter way to discover, watch, and create on YouTube
+Try in YouTube Shorts
+Google AI subscription required. Features vary by tier and geography.

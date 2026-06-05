@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# Claude Code config (contains API keys)
+.claude/
+
+# Diagnostic reader output (NOT the official Article Reader Agent data)
+data/readings/
+
+# Rejected entries (regenerable from raw data)
+data/rejected/
+
+# Local temp files
+_crawl_log.txt
+_*.txt
+*.tar.gz
+
+# Runtime state snapshots (regenerable)
+runs/state/source_health.json
+runs/state/seen_urls.json
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,397 @@
+sources:
+  - provider: "AWS"
+    source_name: "AWS Executive Insights"
+    source_type: "executive_insights"
+    url: "https://aws.amazon.com/executive-insights/"
+    priority: "high"
+    crawl_frequency: "weekly"
+    topics: ["executive_insights", "company_strategy", "enterprise_genai_platform"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "AWS"
+    source_name: "AWS CDO Agenda"
+    source_type: "data_leader_view"
+    url: "https://aws.amazon.com/data/cdo-report/"
+    priority: "high"
+    crawl_frequency: "weekly"
+    topics: ["data_platform", "data_governance", "executive_insights"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "AWS"
+    source_name: "AWS Prescriptive Guidance"
+    source_type: "implementation_guides"
+    url: "https://docs.aws.amazon.com/prescriptive-guidance/"
+    priority: "high"
+    crawl_frequency: "daily"
+    topics: ["implementation_guides", "architecture", "enterprise_genai_platform"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["updated_at", "published_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "AWS"
+    source_name: "Enterprise-ready GenAI Platform"
+    source_type: "enterprise_genai_platform"
+    url: "https://docs.aws.amazon.com/prescriptive-guidance/latest/enterprise-ready-generative-ai-platform/welcome.html"
+    priority: "high"
+    crawl_frequency: "weekly"
+    topics: ["enterprise_genai_platform", "genai_architecture", "ai_governance"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["updated_at", "published_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "AWS"
+    source_name: "AWS Whitepapers"
+    source_type: "whitepapers"
+    url: "https://aws.amazon.com/whitepapers/"
+    priority: "high"
+    crawl_frequency: "weekly"
+    topics: ["whitepapers", "architecture", "ai_governance"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["updated_at", "published_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "AWS"
+    source_name: "AWS Well-Architected Generative AI Lens"
+    source_type: "production_architecture_check"
+    url: "https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/welcome.html"
+    priority: "high"
+    crawl_frequency: "weekly"
+    topics: ["production_architecture_check", "genai_architecture", "ai_governance"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["updated_at", "published_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "AWS"
+    source_name: "AWS Architecture Center"
+    source_type: "genai_architecture"
+    url: "https://aws.amazon.com/architecture/"
+    priority: "high"
+    crawl_frequency: "weekly"
+    topics: ["architecture", "genai_architecture", "cloud"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["updated_at", "published_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "AWS"
+    source_name: "AWS GenAI Architecture"
+    source_type: "genai_architecture"
+    url: "https://aws.amazon.com/architecture/generative-ai/"
+    priority: "high"
+    crawl_frequency: "weekly"
+    topics: ["genai_architecture", "rag", "agents"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["updated_at", "published_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "AWS"
+    source_name: "AWS Machine Learning Blog"
+    source_type: "ai_ml_practice_blog"
+    url: "https://aws.amazon.com/blogs/machine-learning/"
+    priority: "high"
+    crawl_frequency: "daily"
+    topics: ["bedrock", "rag", "agents", "ai_ml_practice_blog"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "AWS"
+    source_name: "AWS News Blog"
+    source_type: "product_releases"
+    url: "https://aws.amazon.com/blogs/aws/"
+    priority: "high"
+    crawl_frequency: "daily"
+    topics: ["product_release", "cloud", "ai"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "AWS"
+    source_name: "AWS re:Invent"
+    source_type: "annual_conference"
+    url: "https://reinvent.awsevents.com/"
+    priority: "medium"
+    crawl_frequency: "weekly"
+    topics: ["annual_conference", "cloud", "ai"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "Amazon"
+    source_name: "Amazon Shareholder Letters"
+    source_type: "company_strategy"
+    url: "https://ir.aboutamazon.com/annual-reports-proxies-and-shareholder-letters/default.aspx"
+    priority: "high"
+    crawl_frequency: "monthly"
+    topics: ["company_strategy", "ai", "business"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "OpenAI"
+    source_name: "OpenAI News"
+    source_type: "product_releases"
+    url: "https://openai.com/news/"
+    priority: "high"
+    crawl_frequency: "daily"
+    topics: ["product_release", "foundation_models", "agents"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "OpenAI"
+    source_name: "OpenAI Research"
+    source_type: "ai_ml_practice_blog"
+    url: "https://openai.com/research/"
+    priority: "high"
+    crawl_frequency: "weekly"
+    topics: ["foundation_models", "research", "ai_safety"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "Anthropic"
+    source_name: "Anthropic News"
+    source_type: "product_releases"
+    url: "https://www.anthropic.com/news"
+    priority: "high"
+    crawl_frequency: "daily"
+    topics: ["product_release", "foundation_models", "safety"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "Anthropic"
+    source_name: "Anthropic Economic Index"
+    source_type: "executive_insights"
+    url: "https://www.anthropic.com/economic-index"
+    priority: "high"
+    crawl_frequency: "weekly"
+    topics: ["executive_insights", "ai_economy", "industry_report"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "Google DeepMind"
+    source_name: "Google DeepMind Blog"
+    source_type: "ai_ml_practice_blog"
+    url: "https://deepmind.google/discover/blog/"
+    priority: "high"
+    crawl_frequency: "daily"
+    topics: ["foundation_models", "research", "agents"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "Google Cloud"
+    source_name: "Google Cloud Blog AI"
+    source_type: "ai_ml_practice_blog"
+    url: "https://cloud.google.com/blog/topics/ai-machine-learning"
+    priority: "high"
+    crawl_frequency: "daily"
+    topics: ["enterprise_genai_platform", "ai_ml_practice_blog", "architecture"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "Google Cloud"
+    source_name: "Google Cloud Architecture Center"
+    source_type: "genai_architecture"
+    url: "https://cloud.google.com/architecture"
+    priority: "high"
+    crawl_frequency: "weekly"
+    topics: ["architecture", "genai_architecture", "production"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["updated_at", "published_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "Microsoft"
+    source_name: "Microsoft AI Blog"
+    source_type: "executive_insights"
+    url: "https://blogs.microsoft.com/ai/"
+    priority: "high"
+    crawl_frequency: "daily"
+    topics: ["executive_insights", "company_strategy", "product_release"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "Microsoft"
+    source_name: "Azure AI Blog"
+    source_type: "ai_ml_practice_blog"
+    url: "https://techcommunity.microsoft.com/category/azure-ai-services/blog/azure-ai-services-blog"
+    priority: "medium"
+    crawl_frequency: "daily"
+    topics: ["ai_ml_practice_blog", "enterprise_genai_platform", "azure"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "NVIDIA"
+    source_name: "NVIDIA Technical Blog"
+    source_type: "ai_ml_practice_blog"
+    url: "https://developer.nvidia.com/blog/"
+    priority: "high"
+    crawl_frequency: "daily"
+    topics: ["ai_ml_practice_blog", "inference", "gpu", "agents"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "NVIDIA"
+    source_name: "NVIDIA GTC"
+    source_type: "annual_conference"
+    url: "https://www.nvidia.com/gtc/"
+    priority: "medium"
+    crawl_frequency: "weekly"
+    topics: ["annual_conference", "gpu", "ai"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "Meta"
+    source_name: "Meta AI Blog"
+    source_type: "ai_ml_practice_blog"
+    url: "https://ai.meta.com/blog/"
+    priority: "high"
+    crawl_frequency: "daily"
+    topics: ["foundation_models", "open_source", "research"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "Hugging Face"
+    source_name: "Hugging Face Blog"
+    source_type: "ai_ml_practice_blog"
+    url: "https://huggingface.co/blog"
+    priority: "high"
+    crawl_frequency: "daily"
+    topics: ["open_source", "models", "ai_ml_practice_blog"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "Stanford HAI"
+    source_name: "Stanford AI Index"
+    source_type: "whitepapers"
+    url: "https://hai.stanford.edu/ai-index"
+    priority: "high"
+    crawl_frequency: "monthly"
+    topics: ["industry_report", "ai_index", "whitepapers"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "a16z"
+    source_name: "a16z AI"
+    source_type: "executive_insights"
+    url: "https://a16z.com/category/ai/"
+    priority: "medium"
+    crawl_frequency: "weekly"
+    topics: ["executive_insights", "startup", "ai"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "McKinsey"
+    source_name: "QuantumBlack AI Insights"
+    source_type: "executive_insights"
+    url: "https://www.mckinsey.com/capabilities/quantumblack/our-insights"
+    priority: "medium"
+    crawl_frequency: "weekly"
+    topics: ["executive_insights", "industry_report", "enterprise_ai"]
+    language: "en"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time"]
+      fallback: "fetched_at"
+  - provider: "IT之家"
+    source_name: "IT之家"
+    source_type: "product_releases"
+    url: "https://www.ithome.com/"
+    priority: "medium"
+    crawl_frequency: "daily"
+    topics: ["product_release", "china_tech", "ai"]
+    language: "zh-CN"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time", "list_page_time"]
+      fallback: "fetched_at"
+  - provider: "机器之心"
+    source_name: "机器之心"
+    source_type: "ai_ml_practice_blog"
+    url: "https://www.jiqizhixin.com/"
+    priority: "medium"
+    crawl_frequency: "daily"
+    topics: ["ai_ml_practice_blog", "research", "china_ai"]
+    language: "zh-CN"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time", "list_page_time"]
+      fallback: "fetched_at"
+  - provider: "量子位"
+    source_name: "量子位"
+    source_type: "ai_ml_practice_blog"
+    url: "https://www.qbitai.com/"
+    priority: "medium"
+    crawl_frequency: "daily"
+    topics: ["ai_ml_practice_blog", "china_ai", "robotics_embodied_ai"]
+    language: "zh-CN"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time", "list_page_time"]
+      fallback: "fetched_at"
+  - provider: "新浪财经"
+    source_name: "新浪财经科技"
+    source_type: "product_releases"
+    url: "https://finance.sina.com.cn/tech/"
+    priority: "medium"
+    crawl_frequency: "daily"
+    topics: ["product_release", "company_strategy", "china_tech"]
+    language: "zh-CN"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time", "list_page_time"]
+      fallback: "fetched_at"
+  - provider: "中国信通院"
+    source_name: "中国信通院"
+    source_type: "whitepapers"
+    url: "http://www.caict.ac.cn/"
+    priority: "high"
+    crawl_frequency: "weekly"
+    topics: ["whitepapers", "industry_report", "china_ai"]
+    language: "zh-CN"
+    access: "public"
+    time_extraction:
+      preferred_fields: ["published_at", "updated_at", "article_meta_time", "json_ld_time", "list_page_time"]
+      fallback: "fetched_at"

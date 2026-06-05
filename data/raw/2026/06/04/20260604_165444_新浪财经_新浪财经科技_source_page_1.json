@@ -1,0 +1,39 @@
+{
+  "kind": "source_page",
+  "provider": "新浪财经",
+  "source_name": "新浪财经科技",
+  "source_type": "product_releases",
+  "source_url": "https://finance.sina.com.cn/tech/",
+  "parent_source_url": null,
+  "configured_source_url": "https://finance.sina.com.cn/tech/",
+  "priority": "medium",
+  "crawl_frequency": "daily",
+  "topics": [
+    "product_release",
+    "company_strategy",
+    "china_tech"
+  ],
+  "language": "zh-CN",
+  "access": "public",
+  "time_extraction": {
+    "preferred_fields": [
+      "published_at",
+      "updated_at",
+      "article_meta_time",
+      "json_ld_time",
+      "list_page_time"
+    ],
+    "fallback": "fetched_at"
+  },
+  "fetched_at": "2026-06-04T16:54:44+08:00",
+  "status": "failed",
+  "status_code": 403,
+  "content_type": "",
+  "elapsed_ms": 207,
+  "truncated": false,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "title": "ҳ��û���ҵ�",
+  "page_title": "ҳ��û���ҵ�",
+  "candidates": [],
+  "html": "<HTML>\n<HEAD>\n<META http-equiv=\"Content-Type\" content=\"text/html; charset=gb2312\">\n<TITLE> ҳ��û���ҵ� </TITLE>\n</HEAD>\n<BODY background=http://image2.sina.com.cn/home/images/tz-001.gif>\n<script type=\"text/javascript\">\n//<!--\nfunction isIFrameSelf(){try{if(window.top ==window){return false;}else{return true;}}catch(e){return true;}}\nfunction toHome(){ if(!isIFrameSelf()){ window.location.href=\"http://www.sina.com.cn/\";}}\nwindow.setTimeout(\"toHome()\",5000);\n//-->\n</script>\n\n<table border=0 cellpadding=0 cellspacing=0 >\n <tr><td height=134></td></tr>\n</table>\n<table width=544 height=157 border=0 cellpadding=0 cellspacing=0 align=center>\n  <tr valign=middle align=middle>\n\t<td background=http://image2.sina.com.cn/home/images/tz-002.gif>\n\t    <table border=0 cellpadding=0 cellspacing=0 >\n\t\t <tr>\n\t\t    <td  style=padding-left:80px;padding-top:10px><strong>ҳ��û���ҵ� 5����֮�󽫻��������������ҳ!</strong></td>\n                 </tr>\n            </table>\n\t</td>\n  </tr>\n</table>\n<br>\n</BODY>\n</HTML>\n"
+}
