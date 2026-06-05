@@ -1,0 +1,38 @@
+{
+  "kind": "source_page",
+  "provider": "Hugging Face",
+  "source_name": "Hugging Face Blog",
+  "source_type": "ai_ml_practice_blog",
+  "source_url": "https://huggingface.co/blog",
+  "parent_source_url": null,
+  "configured_source_url": "https://huggingface.co/blog",
+  "priority": "high",
+  "crawl_frequency": "daily",
+  "topics": [
+    "open_source",
+    "models",
+    "ai_ml_practice_blog"
+  ],
+  "language": "en",
+  "access": "public",
+  "time_extraction": {
+    "preferred_fields": [
+      "published_at",
+      "updated_at",
+      "article_meta_time",
+      "json_ld_time"
+    ],
+    "fallback": "fetched_at"
+  },
+  "fetched_at": "2026-06-05T18:26:13+08:00",
+  "status": "failed",
+  "status_code": null,
+  "content_type": "",
+  "elapsed_ms": 30029,
+  "truncated": false,
+  "error": "URLError: <urlopen error [Errno 101] Network is unreachable>",
+  "title": "",
+  "page_title": "",
+  "candidates": [],
+  "html": ""
+}

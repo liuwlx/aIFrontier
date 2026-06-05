@@ -1,0 +1,38 @@
+{
+  "kind": "candidate_page",
+  "provider": "AWS",
+  "source_name": "AWS Whitepapers",
+  "source_type": "whitepapers",
+  "source_url": "https://aws.amazon.com/new/?nc1=f_cc",
+  "parent_source_url": "https://aws.amazon.com/whitepapers/",
+  "configured_source_url": "https://aws.amazon.com/whitepapers/",
+  "priority": "high",
+  "crawl_frequency": "weekly",
+  "topics": [
+    "whitepapers",
+    "architecture",
+    "ai_governance"
+  ],
+  "language": "en",
+  "access": "public",
+  "time_extraction": {
+    "preferred_fields": [
+      "updated_at",
+      "published_at",
+      "article_meta_time",
+      "json_ld_time"
+    ],
+    "fallback": "fetched_at"
+  },
+  "fetched_at": "2026-06-05T18:13:56+08:00",
+  "status": "failed",
+  "status_code": null,
+  "content_type": "",
+  "elapsed_ms": 30106,
+  "truncated": false,
+  "error": "URLError: <urlopen error _ssl.c:983: The handshake operation timed out>",
+  "title": "What's New",
+  "page_title": "",
+  "candidates": [],
+  "html": ""
+}

@@ -3,28 +3,29 @@
   "stages": {
     "1": {
       "status": "ok",
-      "at": "2026-06-05T15:04:06.819781+08:00",
-      "attempted": 12,
-      "succeeded": 8,
-      "failed": 4
+      "at": "2026-06-05T18:27:26.591049+08:00",
+      "attempted": 32,
+      "succeeded": 15,
+      "failed": 17
     },
     "2": {
       "status": "ok",
-      "at": "2026-06-05T15:04:10.665163+08:00",
-      "raw_records": 47,
-      "accepted": 33,
-      "rejected": 15
+      "at": "2026-06-05T18:27:31.728035+08:00",
+      "raw_records": 138,
+      "accepted": 76,
+      "rejected": 42
     },
     "4": {
-      "status": "skipped",
-      "at": "2026-06-05T15:29:01.015055+08:00",
-      "reason": "no_eligible_articles"
+      "status": "ok",
+      "at": "2026-06-05T19:04:48.246656+08:00",
+      "items_loaded": 64,
+      "items_eligible": 14
     },
     "5": {
       "status": "invalid",
-      "at": "2026-06-05T15:29:01.068181+08:00",
-      "errors": 1,
-      "warnings": 0
+      "at": "2026-06-05T19:04:48.303261+08:00",
+      "errors": 28,
+      "warnings": 14
     }
   }
 }

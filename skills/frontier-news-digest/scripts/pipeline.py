@@ -185,7 +185,7 @@ def cmd_run(root: Path, day: date, stages: str, skip_if_done: bool) -> int:
                 print(f"[pipeline] Stage 1 (crawl) already done, skipping.")
                 continue
             print("[pipeline] Stage 1: crawl_sources.py")
-            r = run_script("crawl_sources.py", "--limit", "12", "--items-per-source", "5",
+            r = run_script("crawl_sources.py", "--limit", "32", "--items-per-source", "5",
                            "--fetch-candidates", "--timeout", "30")
             status = "ok" if r.get("succeeded", 0) > 0 else "failed"
             update_stage_state(root, day, "1", status,

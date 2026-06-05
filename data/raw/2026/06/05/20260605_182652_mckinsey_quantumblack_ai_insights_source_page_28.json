@@ -1,0 +1,38 @@
+{
+  "kind": "source_page",
+  "provider": "McKinsey",
+  "source_name": "QuantumBlack AI Insights",
+  "source_type": "executive_insights",
+  "source_url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights",
+  "parent_source_url": null,
+  "configured_source_url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights",
+  "priority": "medium",
+  "crawl_frequency": "weekly",
+  "topics": [
+    "executive_insights",
+    "industry_report",
+    "enterprise_ai"
+  ],
+  "language": "en",
+  "access": "public",
+  "time_extraction": {
+    "preferred_fields": [
+      "published_at",
+      "updated_at",
+      "article_meta_time",
+      "json_ld_time"
+    ],
+    "fallback": "fetched_at"
+  },
+  "fetched_at": "2026-06-05T18:26:52+08:00",
+  "status": "failed",
+  "status_code": null,
+  "content_type": "",
+  "elapsed_ms": 30845,
+  "truncated": false,
+  "error": "TimeoutError: The read operation timed out",
+  "title": "",
+  "page_title": "",
+  "candidates": [],
+  "html": ""
+}

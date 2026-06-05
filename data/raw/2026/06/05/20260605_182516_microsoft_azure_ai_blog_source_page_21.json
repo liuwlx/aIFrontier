@@ -1,0 +1,38 @@
+{
+  "kind": "source_page",
+  "provider": "Microsoft",
+  "source_name": "Azure AI Blog",
+  "source_type": "ai_ml_practice_blog",
+  "source_url": "https://techcommunity.microsoft.com/category/azure-ai-services/blog/azure-ai-services-blog",
+  "parent_source_url": null,
+  "configured_source_url": "https://techcommunity.microsoft.com/category/azure-ai-services/blog/azure-ai-services-blog",
+  "priority": "medium",
+  "crawl_frequency": "daily",
+  "topics": [
+    "ai_ml_practice_blog",
+    "enterprise_genai_platform",
+    "azure"
+  ],
+  "language": "en",
+  "access": "public",
+  "time_extraction": {
+    "preferred_fields": [
+      "published_at",
+      "updated_at",
+      "article_meta_time",
+      "json_ld_time"
+    ],
+    "fallback": "fetched_at"
+  },
+  "fetched_at": "2026-06-05T18:25:16+08:00",
+  "status": "failed",
+  "status_code": 403,
+  "content_type": "",
+  "elapsed_ms": 1198,
+  "truncated": false,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "title": "403 Forbidden",
+  "page_title": "403 Forbidden",
+  "candidates": [],
+  "html": "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>Microsoft-Azure-Application-Gateway/v2</center>\r\n</body>\r\n</html>\r\n"
+}
